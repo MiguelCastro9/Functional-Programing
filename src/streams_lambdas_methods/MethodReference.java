@@ -1,4 +1,4 @@
-package functionalprograming;
+package streams_lambdas_methods;
 
 import java.math.BigDecimal;
 import java.util.Arrays;

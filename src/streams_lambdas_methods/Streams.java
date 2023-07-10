@@ -1,4 +1,4 @@
-package functionalprograming;
+package streams_lambdas_methods;
 
 import java.util.Arrays;
 import java.util.List;
